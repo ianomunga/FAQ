@@ -1,2 +1,2 @@
-# FAQ
-project code and everything else
+
+FAQ stands for Frequently Asked Questions, but in this particular project FAQ will be an AI add-on for the website of a start-up or an already established business that will cataer for all of the customer relations of the business in entirety. From customer relations, customer education, enquiries and emergency handling, all under one service subscription. FAQ's AI will be used to learn the way customers of a certain product think and ask questions, to gauge exactly what help they will need at each juncture of usign the product, and to aid FAQ's customer support professionals to be the best connection the customers will have with the business. 
